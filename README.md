@@ -1,4 +1,4 @@
 # Audio-visual-rhythms-analysis
 Audio visual rhythms analysis [code only]
 
-project for Cognitive Neuroscience
+Cognitive Neuroscience Project. View PDF if ipython notebook fails to load.
